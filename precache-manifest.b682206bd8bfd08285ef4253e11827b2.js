@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33b42dc2615e5552903f47c2c767bf20",
+    "revision": "2d100ed8b2bf7a59eff5d4d6de476df6",
     "url": "/bugs-and-brews/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bugs-and-brews/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "e47712dd9a1c0bf37216",
+    "revision": "939fe0a7044a5d3c9978",
     "url": "/bugs-and-brews/static/css/main.0d6c4daa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bugs-and-brews/static/js/2.4b7835ea.chunk.js.LICENSE"
   },
   {
-    "revision": "e47712dd9a1c0bf37216",
-    "url": "/bugs-and-brews/static/js/main.9170166c.chunk.js"
+    "revision": "939fe0a7044a5d3c9978",
+    "url": "/bugs-and-brews/static/js/main.34a85b85.chunk.js"
   },
   {
     "revision": "fc0f8fabbfc3bfa73838",
