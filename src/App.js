@@ -14,8 +14,8 @@ function App() {
             work on their pet projects. The goal is to give people the space to
             focus. Everyone must share what they build each night.
           </p>
-          <p className="pv1 ph2">
-            Text Niko at <strong>718:568:7032</strong> to get on the list.
+          <p className="pv1 ph2 lh-copy">
+            Text us at <strong>718:568:7032</strong> to get on the list.
           </p>
         </div>
       </div>
